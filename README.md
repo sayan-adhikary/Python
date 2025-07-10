@@ -26,6 +26,13 @@ Covers how to convert data from one type to another in Python. Includes:
 - Implicit vs explicit typecasting
 - Common type conversion functions (`int()`, `str()`, `float()`, etc.)
 
+## 📁 05_user_input  
+Focuses on getting input from users during program execution. Topics include:  
+- Using the `input()` function  
+- Reading and storing user input  
+- Type conversion of input data  
+- Simple interactive programs
+
 ## 📄 README.md
 You're reading it! This file provides an overview of the repository structure and a brief description of each section to help you navigate the content.
 
