@@ -33,6 +33,22 @@ Focuses on getting input from users during program execution. Topics include:
 - Type conversion of input data  
 - Simple interactive programs
 
+## 📁 06_comments_print_esc
+This section focuses on comments, the `print()` function, and escape sequences in Python. It includes:
+- Single-line and multi-line comments
+- The `print()` function syntax and usage
+- Using `sep` and `end` parameters in `print()`
+- Common escape sequences (`\n`, `\t`, `\\`, `\"`, etc.)
+
+## 📁 07_operators
+Introduces different types of operators available in Python. Topics include:
+- Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+- Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+- Logical operators (`and`, `or`, `not`)
+- Assignment operators (`=`, `+=`, `-=`, etc.)
+- Bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`)
+- Operator precedence and associativity
+
 ## 📄 README.md
 You're reading it! This file provides an overview of the repository structure and a brief description of each section to help you navigate the content.
 
