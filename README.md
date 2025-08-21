@@ -49,6 +49,14 @@ Introduces different types of operators available in Python. Topics include:
 - Bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`)
 - Operator precedence and associativity
 
+## 📁 08_control_flow_loops
+This section introduces control flow and looping constructs in Python, helping you write programs that make decisions and repeat tasks. Topics include:
+- **If-Else Conditional Statements**: Making decisions in code with `if`, `elif`, and `else`.
+- **Match Case Statements**: A cleaner alternative to multiple `if-elif` blocks (introduced in Python 3.10).
+- **For Loops**: Iterating over sequences such as lists, strings, and ranges.
+- **While Loops**: Repeating a block of code until a condition is met.
+- **Break, Continue, and Pass Statements**: Controlling loop execution flow.
+
 ## 📄 README.md
 You're reading it! This file provides an overview of the repository structure and a brief description of each section to help you navigate the content.
 
