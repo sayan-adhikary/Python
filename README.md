@@ -49,13 +49,29 @@ Introduces different types of operators available in Python. Topics include:
 - Bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`)
 - Operator precedence and associativity
 
-## 📁 08_control_flow_loops
-This section introduces control flow and looping constructs in Python, helping you write programs that make decisions and repeat tasks. Topics include:
-- **If-Else Conditional Statements**: Making decisions in code with `if`, `elif`, and `else`.
-- **Match Case Statements**: A cleaner alternative to multiple `if-elif` blocks (introduced in Python 3.10).
-- **For Loops**: Iterating over sequences such as lists, strings, and ranges.
-- **While Loops**: Repeating a block of code until a condition is met.
-- **Break, Continue, and Pass Statements**: Controlling loop execution flow.
+## 📁 08_conditional
+This section covers conditional statements in Python, which allow programs to make decisions based on conditions. It includes:
+- **If Statement** – Executing code only when a condition is true
+- **If-Else Statement** – Handling both true and false conditions
+- **If-Elif-Else Statement** – Checking multiple conditions in sequence
+- **Match-Case Statement** – A structured alternative to multiple if-elif blocks (introduced in Python 3.10)
+
+## 📁 09_loops
+This section introduces looping constructs in Python, which allow repeating tasks efficiently. It includes:
+- **For Loops** – Iterating over sequences like lists, strings, and ranges
+- **While Loops** – Running code repeatedly while a condition is true
+- **Infinite Loops** – Loops that run indefinitely until manually stopped
+- **Break Statement** – Exiting a loop prematurely
+- **Continue Statement** – Skipping the current iteration and continuing with the next
+- **Pass Statement** – A placeholder statement that does nothing, often used for code structure
+
+## 📁 10_string
+This section covers working with strings in Python, one of the most commonly used data types. It includes:
+- **String Basics** – Creating and using strings
+- **Indexing** – Accessing individual characters in a string
+- **Slicing** – Extracting parts of a string using slice notation
+- **String Methods** – Built-in methods for string manipulation (e.g., `upper()`, `lower()`, `strip()`, `replace()`, etc.)
+- **F-Strings** – Formatting strings efficiently using f-string syntax
 
 ## 📄 README.md
 You're reading it! This file provides an overview of the repository structure and a brief description of each section to help you navigate the content.
