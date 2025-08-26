@@ -4,3 +4,4 @@ def sum(a, b):
     return c
 
 print(sum.__doc__)
+print(sum(1,2))
