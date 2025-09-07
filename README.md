@@ -108,6 +108,44 @@ This section covers dictionaries, Python’s key-value pair data structure. It i
 - **Dictionary Methods** – Common methods like `keys()`, `values()`, `items()`, `get()`, etc.
 - **Dictionary Comprehension** – A concise way to create dictionaries
 
+## 📁 16_oops
+This section introduces Object-Oriented Programming (OOP) concepts in Python. It includes:
+- **Classes** – Creating classes and objects
+- **Constructors** – Using the `__init__` method
+- **Instance vs Class Variables** – Difference between instance-level and class-level data
+- **Inheritance** – Reusing code and extending classes
+- **Operator Overloading** – Defining custom behavior for operators with special methods
+
+## 📁 17_python_advanced_concepts
+This section covers advanced Python concepts and features for writing more powerful programs. It includes:
+- **Decorators** – Enhancing functions without modifying them
+- **Decorators with Arguments** – Passing arguments to decorators
+- **Getters and Setters** – Controlling access to class attributes
+- **Instance, Static, and Class Methods** – Different method types in classes
+- **Dunder (Magic) Methods** – Special methods like `__str__`, `__len__`, etc.
+- **Errors & Exception Handling** – Handling errors gracefully
+- **Else Clause** – Using `else` with loops and exceptions
+- **Finally Clause** – Guaranteeing code execution after `try-except`
+- **Map Function** – Applying a function to all items in an iterable
+- **Filter Function** – Filtering elements based on a condition
+- **Reduce Function** – Reducing an iterable to a single value
+- **Walrus Operator** – Assignment expressions (`:=`)
+- **Args (`*args`)** – Passing a variable number of positional arguments
+- **Kwargs (`**kwargs`)** – Passing a variable number of keyword arguments
+- **Combined Args and Kwargs** – Using `*args` and `**kwargs` together
+
+## 📁 18_files
+This section focuses on file handling and related operations in Python. It includes:
+- **Reading Files** – Opening and reading file content (`01_read.py`)
+- **Writing Files** – Writing content to files (`02_write.py`)
+- **Appending Files** – Adding content without overwriting (`03_append.py`)
+- **Line by Line Reading** – Iterating through file lines (`04_line_by_line.py`)
+- **With Statement** – Managing files with context managers (`05_with.py`)
+- **OS Module** – Interacting with the operating system (`06_os.py`)
+- **Shutil Module** – High-level file operations (`07_shutil.py`)
+- **Argparse Module** – Handling command-line arguments (`08_argparse.py`)
+- **Sample Files** – Example text files (`john.txt`, `harry.txt`, `John Doe.txt`) for testing file operations
+
 ## 📄 README.md
 You're reading it! This file provides an overview of the repository structure and a brief description of each section to help you navigate the content.
 
